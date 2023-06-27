@@ -31,6 +31,8 @@ Here are some ideas to get you started:
   <img src="https://api.iconify.design/vscode-icons:file-type-html.svg" alt="HTML" width=48 height=48>
   <img src="https://api.iconify.design/logos:mysql.svg" alt="MySQL" width=48 height=48>
   <img src="https://api.iconify.design/logos:mongodb-icon.svg" alt="MongoDB" width=48 height=48>
+  <img src="https://api.iconify.design/skill-icons:kafka.svg" alt="Kafka" width=48 height=48>
+  <img src="https://api.iconify.design/logos:rabbitmq-icon.svg" alt="RabbitMQ" width=48 height=48>
   <img src="https://api.iconify.design/logos:linux-tux.svg" alt="Linux" width=48 height=48>
   <img src="https://api.iconify.design/logos:git-icon.svg" alt="Git" width=48 height=48>
   <img src="https://api.iconify.design/logos:terraform-icon.svg" alt="Terraform" width=48 height=48>
