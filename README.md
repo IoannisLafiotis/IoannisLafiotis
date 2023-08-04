@@ -25,6 +25,7 @@ Here are some ideas to get you started:
   <img src="https://api.iconify.design/logos:java.svg" alt="Java" width=48 height=48>
   <img src="https://api.iconify.design/logos:javascript.svg" alt="JavaScript" width=48 height=48>
   <img src="https://api.iconify.design/logos:typescript-icon.svg" alt="Typescript" width=48 height=48>
+  <img src="https://api.iconify.design/skill-icons:golang.svg" alt="Kafka" width=48 height=48>
   <img src="https://api.iconify.design/logos:nodejs.svg" alt="NodeJS" width=48 height=48>
   <img src="https://api.iconify.design/logos:react.svg" alt="React" width=48 height=48>
   <img src="https://api.iconify.design/logos:svelte-icon.svg" alt="Svelte" width=48 height=48>
